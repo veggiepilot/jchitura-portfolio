@@ -101,7 +101,6 @@ nav {
 }
 
 .showcase-left-img{
-    justify-content: flex-start;
     flex-basis: 30%;
     order: 1;
     padding: 2% 2% 2% 0%;
@@ -160,8 +159,7 @@ nav ul a{
 }
 img {
     width: 80%;
-    border-radius: 20px;
-    margin-left: 17%;
+    margin-left: 13%;
     padding: 2%;
 }
 
