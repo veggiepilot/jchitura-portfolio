@@ -194,8 +194,8 @@ img {
         width: 10%;
     }
     .about{
-        padding-top: 25%;
-        /* margin-top: 40%; */
+        padding-top: 15%;
+        margin-top: 30%;
         margin-bottom: 5%;
     }
     .work{
@@ -307,8 +307,8 @@ img {
         width: 25%;
     }
     .about{
-        padding-top: 12%;
-        /* margin-top: 40%; */
+        padding-top: 5%;
+        margin-top: 40%;
         margin-bottom: 5%;
     }
     .work{
@@ -390,5 +390,11 @@ img {
         padding-left: 15%;
         border-radius: 20px;       
     }
+
+    /* .about{
+        margin-top: 100%;
+        padding-top: 50%;
+        margin-bottom: 5%;
+    } */
 }
 
